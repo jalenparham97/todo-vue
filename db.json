@@ -1,0 +1,10 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "content": "new todo yay",
+      "completed": false,
+      "edit": false
+    }
+  ]
+}
